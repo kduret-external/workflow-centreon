@@ -11,6 +11,7 @@ use strict;
 use warnings;
 use centreon::script;
 
+
 use base qw(centreon::script);
 
 use vars qw(%dsmclient_config);
